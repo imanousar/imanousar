@@ -6,7 +6,7 @@
 - 👋 Hi, I’m @imanousar
 - 👀 I’m interested in Machine learning, Soft Eng
 - 📕 Learning AWS
-- ♞ Challenge me  in lichess - [@link97](https://lichess.org/@/link97
+- ♞ Challenge me  in lichess - [@link97](https://lichess.org/@/link97)
 
 
 <br> <br> <br> <br> <br> <br> <br> <br>
