@@ -4,7 +4,8 @@
 
 
 - 👋 Hi, I’m @imanousar
-- 👀 I’m interested in Machine learning, Soft Eng
+- 👀 I’m interested in AI, Soft Eng. Doing a lot of LLMs currently
+- 🧬 Expirementing a lot with clinical data and discovering the oncology world.
 - 📕 Learning AWS
 - ♞ Challenge me  in lichess - [@link97](https://lichess.org/@/link97)
 
