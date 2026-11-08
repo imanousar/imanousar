@@ -4,9 +4,10 @@
 
 
 - 👋 Hi, I’m @imanousar
-- 👀 I’m interested in AI, Soft Eng. Doing a lot of LLMs currently
-- 🧬 Expirementing a lot with clinical data and discovering the oncology world.
-- 📕 Learning AWS
+- 👀 I’m interested in AI, Soft Eng
+- 🧬 Working on clinical data
+- 📕 Learning anything about GenAI
+- 😈 I sold my soul to the devil for Ꝏ tokens
 - ♞ Challenge me  in lichess - [@link97](https://lichess.org/@/link97)
 
 
